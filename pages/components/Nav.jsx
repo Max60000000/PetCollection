@@ -9,7 +9,7 @@ const Nav = () => {
       <div className=" flex justify-center space-x-20 p-4 font-bold">
         <a href=""> Logo </a>
         <Link href="./">Home</Link>
-        <Link href="/About">About</Link>
+        <a href="/About">About</a>
         <Link href="/Services">Services</Link>
         <Link href="/Breeds">Breeds</Link>
         <Link href="/Shop">Shop</Link>
